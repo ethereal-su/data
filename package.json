@@ -1,0 +1,16 @@
+{
+  "name": "data2",
+  "private": true,
+  "scripts": {
+    "bundle": "bun ./scripts/bundle.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
