@@ -1,21 +1,8 @@
 {
-    "biba": {
-        "version": "1.21.1",
-        "name": "Biba Boba",
-        "created": 1778597711244,
-        "world": {
-            "main": 15000,
-            "other": 10000
-        },
-        "description": {
-            "en": "description",
-            "ru": "описание"
-        }
-    },
     "test": {
         "version": "1.21.1",
-        "name": "TEST",
-        "created": 1778598710744,
+        "name": "test",
+        "created": 1792825185972,
         "world": {
             "main": 15000,
             "other": 10000
